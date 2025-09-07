@@ -34,7 +34,7 @@ It leverages the **Google Gemini API** for speech transcription, intent recognit
 This project is organized into **three separate repositories**:  
 
 - 🌐 **Web Frontend (Angular):** [Voice-Talk](https://github.com/raedzayoud/Voice-Talk)  
-- ⚙️ **Backend for Web (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches-web](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches-web)  
+- ⚙️ **Backend for Web (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches-web](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.-)  
 
 ---
 

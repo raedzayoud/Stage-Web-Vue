@@ -43,6 +43,4 @@ This project is organized into **three separate repositories**:
 ## 🎥 Demo Videos  
 
 - **Web Demo:** [🎬 Watch Demo](https://drive.google.com/file/d/11dhSTHqGSy6df3GcKYbIxSpwhNjiIw7U/view?usp=sharing)  
-- **Mobile Demo:** [🎬 Watch Demo](https://drive.google.com/file/d/105Xu4Au0VJ7YiyUa3LyJmymVX_vz4WM0/view?usp=sharing)  
-
 ---

@@ -35,7 +35,8 @@ This project is organized into **three separate repositories**:
 
 - 🌐 **Web Frontend (Angular):** [Voice-Talk](https://github.com/raedzayoud/Voice-Talk)  
 - 📱 **Mobile Frontend (Flutter):** [Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches](https://github.com/raedzayoud/Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches)  
-- ⚙️ **Backend (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches)  
+- ⚙️ **Backend For Mobile (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches-mobile](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches)  
+- ⚙️ **Backend For Web (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches-web]([https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.-))  
 
 ---
 

@@ -29,11 +29,26 @@ It leverages the **Google Gemini API** for speech transcription, intent recognit
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure & Repositories  
+
+This project is organized into **three separate repositories**:  
+
+- 🌐 **Web Frontend (Angular):** [Voice-Talk](https://github.com/raedzayoud/Voice-Talk)  
+- 📱 **Mobile Frontend (Flutter):** [Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches](https://github.com/raedzayoud/Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches)  
+- ⚙️ **Backend (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches)  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone All Repositories  
 ```bash
-gemini-voice-assistant/
-│── mobile/           # Flutter mobile app
-│── web/              # Angular web app
-│── backend/          # Laravel + MySQL backend
-│── docs/             # Documentation, screenshots, diagrams
-│── README.md         # Project description
+# Clone Web Frontend
+git clone https://github.com/raedzayoud/Voice-Talk.git
+
+# Clone Mobile Frontend
+git clone https://github.com/raedzayoud/Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.git
+
+# Clone Backend
+git clone https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.git
+

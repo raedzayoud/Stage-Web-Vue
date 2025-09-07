@@ -40,16 +40,12 @@ This project is organized into **three separate repositories**:
 
 ---
 
-## 🚀 Getting Started  
+## 🎥 Demo Videos  
 
-### 1️⃣ Clone All Repositories  
-```bash
-# Clone Web Frontend
-git clone https://github.com/raedzayoud/Voice-Talk.git
+- **Web Demo:** [🎬 Watch Demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+- **Mobile Demo:** [🎬 Watch Demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
-# Clone Mobile Frontend
-git clone https://github.com/raedzayoud/Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.git
+---
 
 # Clone Backend
 git clone https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.git
-

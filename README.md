@@ -33,12 +33,12 @@ It leverages the **Google Gemini API** for speech transcription, intent recognit
 
 This project is organized into **two separate repositories**:
 
-- 🌐 **Frontend Code (Angular):** [Sales-Invoice-Management](https://github.com/raedzayoud/Sales-Invoice-Management)  
-- ⚙️ **Backend Code (Spring Boot + MySQL):** [backend-sales-invoice](https://github.com/raedzayoud/backend-sales-invoice)  
+- 🌐 **Frontend Code (Angular):** [Frontend-Assistant](https://github.com/raedzayoud/Voice-Talk)  
+- ⚙️ **Backend Code (Laravel + MySQL):** [backend-Assistant](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.--web)  
 
 ---
 
 ## 🎥 Demo Videos  
 
-- **Web Demo:** [🎬 Watch Demo](https://drive.google.com/file/d/1niRoW5HEWd6lS7sf2t8iAw1nURFfD28o/view?usp=drive_link)  
+- **Web Demo:** [🎬 Watch Demo](https://drive.google.com/file/d/11dhSTHqGSy6df3GcKYbIxSpwhNjiIw7U/view?usp=drive_link)  
 ---

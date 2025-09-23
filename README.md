@@ -29,12 +29,12 @@ It leverages the **Google Gemini API** for speech transcription, intent recognit
 
 ---
 
-## 📂 Project Structure & Repositories  
+## 📂 Project Structure & Repositories
 
-This project is organized into **three separate repositories**:  
+This project is organized into **two separate repositories**:
 
-- 🌐 **Web Frontend (Angular):** [Voice-Talk](https://github.com/raedzayoud/Voice-Talk)  
-- ⚙️ **Backend for Web (Laravel + MySQL):** [backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches-web](https://github.com/raedzayoud/backend-Assistant-vocal-intelligent-pour-la-gestion-automatisee-des-taches.-)  
+- 🌐 **Frontend Code (Angular):** [Sales-Invoice-Management](https://github.com/raedzayoud/Sales-Invoice-Management)  
+- ⚙️ **Backend Code (Spring Boot + MySQL):** [backend-sales-invoice](https://github.com/raedzayoud/backend-sales-invoice)  
 
 ---
 

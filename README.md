@@ -40,5 +40,5 @@ This project is organized into **two separate repositories**:
 
 ## 🎥 Demo Videos  
 
-- **Web Demo:** [🎬 Watch Demo](https://drive.google.com/file/d/11dhSTHqGSy6df3GcKYbIxSpwhNjiIw7U/view?usp=sharing)  
+- **Web Demo:** [🎬 Watch Demo](https://drive.google.com/file/d/1niRoW5HEWd6lS7sf2t8iAw1nURFfD28o/view?usp=drive_link)  
 ---
